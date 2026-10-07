@@ -1,5 +1,11 @@
 <img src="https://github.com/mrxenginner/reVC/blob/miami/res/images/logo_1024.png?raw=true" alt="reVC logo" width="200">
 
+## About this fork
+This branch is based on mrxenginner's default (Miami) version and incorporates my own bug fixes.\
+To enable my fixes in the code, define FIX_BUGS_LEAF (already defined below FIX_BUGS).\
+All of these fixes are experimental; they may not achieve exactly the same features as the original version and may introduce more issues.\
+I will upload the modified files later and include the details of the fixes.
+
 ## Intro
 
 In this repository you'll find the fully reversed source code for GTA VC ([miami](https://github.com/mrxenginner/reVC/tree/miami/) branch).
