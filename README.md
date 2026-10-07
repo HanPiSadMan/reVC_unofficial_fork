@@ -1,9 +1,9 @@
 <img src="https://github.com/mrxenginner/reVC/blob/miami/res/images/logo_1024.png?raw=true" alt="reVC logo" width="200">
 
 ## About this fork
-This branch is based on mrxenginner's default (Miami) version and incorporates my own bug fixes (mainly focusing on bugs caused by high frame rates).
-To enable my fixes in the code, define FIX_BUGS_MAYBE (FIX_BUGS must be defined first; I defined it under FIX_BUGS).
-All of these fixes are experimental; they may not achieve exactly the same effect as game running at 30 fps and may introduce more issues.
+This branch is based on mrxenginner's default (Miami) version and incorporates my own bug fixes (mainly focusing on bugs caused by high frame rates).\
+To enable my fixes in the code, define FIX_BUGS_MAYBE (FIX_BUGS must be defined first; I defined it under FIX_BUGS).\
+All of these fixes are experimental; they may not achieve exactly the same effect as game running at 30 fps and may introduce more issues.\
 I will upload the modified files later and include the details of the fixes.
 
 ## Intro
