@@ -196,7 +196,7 @@ void CWeather::Update(void)
 				LightningBurst = false;
 				LightningDuration = Min(CTimer::GetFrameCounter() - LightningStart, MaxDuration);
 				LightningFlash = false;
-				WhenToPlayLightningSound = CTimer::GetTimeInMilliseconds() + 150 * (20 - LightningDuration);
+				WhenToPlayLightningSound = CTimer::GetTimeInMilliseconds() + 150 * (MaxDuration - LightningDuration);
 			}
 		}
 		else {
